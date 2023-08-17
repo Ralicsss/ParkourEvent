@@ -1,0 +1,13 @@
+name: ParkourEvent
+version: '0.1'
+main: ralics.net.parkourevent1.Main
+api-version: 1.19
+prefix: [Parkour]
+authors: [justronnie]
+description: made by justronnie
+website: dsc.gg/civ
+commands:
+  addBlockData:
+    permission: admin.admin
+  event:
+    permission: admin.admin
